@@ -11,7 +11,7 @@ function Form (){
                 <label htmlFor="">Fecha</label>
                 <input type="date" name="" id="" />
                 <label htmlFor="">Hora</label>
-                <input type="datetime" name="" id="" />
+                <input type="time" name="" id="" />
                 <label htmlFor="">Sintomas</label>
                 <input type="text" name="" id="" />
                 <button type="submit">Agregar Cita</button>
