@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.css';
 import Form from './assets/componentes/Form';
-import Cita from './assets/componentes/Cita';
+import ListadoCitas from './assets/componentes/ListadoCitas';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
         </div>
         <div className="column">
           <h2>ADMINISTRA TUS CITAS</h2>
-          <Cita />
+          <ListadoCitas/>
         </div>
       </div>
     </div>
